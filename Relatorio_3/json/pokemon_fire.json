@@ -1,0 +1,1043 @@
+[
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb10"
+        },
+        "id": 6,
+        "name": {
+            "english": "Charizard",
+            "japanese": "\u30ea\u30b6\u30fc\u30c9\u30f3",
+            "chinese": "\u55b7\u706b\u9f99",
+            "french": "Dracaufeu"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 78,
+            "Attack": 84,
+            "Defense": 78,
+            "Sp. Attack": 109,
+            "Sp. Defense": 85,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb30"
+        },
+        "id": 38,
+        "name": {
+            "english": "Ninetales",
+            "japanese": "\u30ad\u30e5\u30a6\u30b3\u30f3",
+            "chinese": "\u4e5d\u5c3e",
+            "french": "Feunard"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 73,
+            "Attack": 76,
+            "Defense": 75,
+            "Sp. Attack": 81,
+            "Sp. Defense": 100,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb45"
+        },
+        "id": 59,
+        "name": {
+            "english": "Arcanine",
+            "japanese": "\u30a6\u30a4\u30f3\u30c7\u30a3",
+            "chinese": "\u98ce\u901f\u72d7",
+            "french": "Arcanin"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 90,
+            "Attack": 110,
+            "Defense": 80,
+            "Sp. Attack": 100,
+            "Sp. Defense": 80,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb58"
+        },
+        "id": 78,
+        "name": {
+            "english": "Rapidash",
+            "japanese": "\u30ae\u30e3\u30ed\u30c3\u30d7",
+            "chinese": "\u70c8\u7130\u9a6c",
+            "french": "Galopa"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 100,
+            "Defense": 70,
+            "Sp. Attack": 80,
+            "Sp. Defense": 80,
+            "Speed": 105
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb88"
+        },
+        "id": 126,
+        "name": {
+            "english": "Magmar",
+            "japanese": "\u30d6\u30fc\u30d0\u30fc",
+            "chinese": "\u9e2d\u5634\u706b\u517d",
+            "french": "Magmar"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 95,
+            "Defense": 57,
+            "Sp. Attack": 100,
+            "Sp. Defense": 85,
+            "Speed": 93
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb92"
+        },
+        "id": 136,
+        "name": {
+            "english": "Flareon",
+            "japanese": "\u30d6\u30fc\u30b9\u30bf\u30fc",
+            "chinese": "\u706b\u4f0a\u5e03",
+            "french": "Pyroli"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 130,
+            "Defense": 60,
+            "Sp. Attack": 95,
+            "Sp. Defense": 110,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb9c"
+        },
+        "id": 146,
+        "name": {
+            "english": "Moltres",
+            "japanese": "\u30d5\u30a1\u30a4\u30e4\u30fc",
+            "chinese": "\u706b\u7130\u9e1f",
+            "french": "Sulfura"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 90,
+            "Attack": 100,
+            "Defense": 90,
+            "Sp. Attack": 125,
+            "Sp. Defense": 85,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eba7"
+        },
+        "id": 157,
+        "name": {
+            "english": "Typhlosion",
+            "japanese": "\u30d0\u30af\u30d5\u30fc\u30f3",
+            "chinese": "\u706b\u66b4\u517d",
+            "french": "Typhlosion"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 78,
+            "Attack": 84,
+            "Defense": 78,
+            "Sp. Attack": 109,
+            "Sp. Defense": 85,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ebe5"
+        },
+        "id": 219,
+        "name": {
+            "english": "Magcargo",
+            "japanese": "\u30de\u30b0\u30ab\u30eb\u30b4",
+            "chinese": "\u7194\u5ca9\u8717\u725b",
+            "french": "Volcaropod"
+        },
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 50,
+            "Defense": 120,
+            "Sp. Attack": 90,
+            "Sp. Defense": 80,
+            "Speed": 30
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ebef"
+        },
+        "id": 229,
+        "name": {
+            "english": "Houndoom",
+            "japanese": "\u30d8\u30eb\u30ac\u30fc",
+            "chinese": "\u9ed1\u9c81\u52a0",
+            "french": "D\u00e9molosse"
+        },
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 90,
+            "Defense": 50,
+            "Sp. Attack": 110,
+            "Sp. Defense": 80,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ebfe"
+        },
+        "id": 244,
+        "name": {
+            "english": "Entei",
+            "japanese": "\u30a8\u30f3\u30c6\u30a4",
+            "chinese": "\u708e\u5e1d",
+            "french": "Entei"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 115,
+            "Attack": 115,
+            "Defense": 85,
+            "Sp. Attack": 90,
+            "Sp. Defense": 75,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec04"
+        },
+        "id": 250,
+        "name": {
+            "english": "Ho-Oh",
+            "japanese": "\u30db\u30a6\u30aa\u30a6",
+            "chinese": "\u51e4\u738b",
+            "french": "Ho-Oh"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 106,
+            "Attack": 130,
+            "Defense": 90,
+            "Sp. Attack": 110,
+            "Sp. Defense": 154,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec0a"
+        },
+        "id": 256,
+        "name": {
+            "english": "Combusken",
+            "japanese": "\u30ef\u30ab\u30b7\u30e3\u30e2",
+            "chinese": "\u529b\u58ee\u9e21",
+            "french": "Galifeu"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 85,
+            "Defense": 60,
+            "Sp. Attack": 85,
+            "Sp. Defense": 60,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec0b"
+        },
+        "id": 257,
+        "name": {
+            "english": "Blaziken",
+            "japanese": "\u30d0\u30b7\u30e3\u30fc\u30e2",
+            "chinese": "\u706b\u7130\u9e21",
+            "french": "Bras\u00e9gali"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 120,
+            "Defense": 70,
+            "Sp. Attack": 110,
+            "Sp. Defense": 70,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec4c"
+        },
+        "id": 322,
+        "name": {
+            "english": "Numel",
+            "japanese": "\u30c9\u30f3\u30e1\u30eb",
+            "chinese": "\u5446\u706b\u9a7c",
+            "french": "Chamallot"
+        },
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 60,
+            "Defense": 40,
+            "Sp. Attack": 65,
+            "Sp. Defense": 45,
+            "Speed": 35
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec4d"
+        },
+        "id": 323,
+        "name": {
+            "english": "Camerupt",
+            "japanese": "\u30d0\u30af\u30fc\u30c0",
+            "chinese": "\u55b7\u706b\u9a7c",
+            "french": "Cam\u00e9rupt"
+        },
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 100,
+            "Defense": 70,
+            "Sp. Attack": 105,
+            "Sp. Defense": 75,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec4e"
+        },
+        "id": 324,
+        "name": {
+            "english": "Torkoal",
+            "japanese": "\u30b3\u30fc\u30bf\u30b9",
+            "chinese": "\u7164\u70ad\u9f9f",
+            "french": "Chartor"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 85,
+            "Defense": 140,
+            "Sp. Attack": 85,
+            "Sp. Defense": 70,
+            "Speed": 20
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec91"
+        },
+        "id": 391,
+        "name": {
+            "english": "Monferno",
+            "japanese": "\u30e2\u30a6\u30ab\u30b6\u30eb",
+            "chinese": "\u731b\u706b\u7334",
+            "french": "Chimpenfeu"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 64,
+            "Attack": 78,
+            "Defense": 52,
+            "Sp. Attack": 78,
+            "Sp. Defense": 52,
+            "Speed": 81
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ec92"
+        },
+        "id": 392,
+        "name": {
+            "english": "Infernape",
+            "japanese": "\u30b4\u30a6\u30ab\u30b6\u30eb",
+            "chinese": "\u70c8\u7130\u7334",
+            "french": "Simiabraz"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 76,
+            "Attack": 104,
+            "Defense": 71,
+            "Sp. Attack": 104,
+            "Sp. Defense": 71,
+            "Speed": 108
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecdd"
+        },
+        "id": 467,
+        "name": {
+            "english": "Magmortar",
+            "japanese": "\u30d6\u30fc\u30d0\u30fc\u30f3",
+            "chinese": "\u9e2d\u5634\u708e\u517d",
+            "french": "Maganon"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 95,
+            "Defense": 67,
+            "Sp. Attack": 125,
+            "Sp. Defense": 95,
+            "Speed": 83
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecef"
+        },
+        "id": 485,
+        "name": {
+            "english": "Heatran",
+            "japanese": "\u30d2\u30fc\u30c9\u30e9\u30f3",
+            "chinese": "\u5e2d\u591a\u84dd\u6069",
+            "french": "Heatran"
+        },
+        "type": [
+            "Fire",
+            "Steel"
+        ],
+        "base": {
+            "HP": 91,
+            "Attack": 90,
+            "Defense": 106,
+            "Sp. Attack": 130,
+            "Sp. Defense": 106,
+            "Speed": 77
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecf8"
+        },
+        "id": 494,
+        "name": {
+            "english": "Victini",
+            "japanese": "\u30d3\u30af\u30c6\u30a3\u30cb",
+            "chinese": "\u6bd4\u514b\u63d0\u5c3c",
+            "french": "Victini"
+        },
+        "type": [
+            "Psychic",
+            "Fire"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Attack": 100,
+            "Sp. Defense": 100,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecfc"
+        },
+        "id": 498,
+        "name": {
+            "english": "Tepig",
+            "japanese": "\u30dd\u30ab\u30d6",
+            "chinese": "\u6696\u6696\u732a",
+            "french": "Gruikui"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 63,
+            "Defense": 45,
+            "Sp. Attack": 45,
+            "Sp. Defense": 45,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecfd"
+        },
+        "id": 499,
+        "name": {
+            "english": "Pignite",
+            "japanese": "\u30c1\u30e3\u30aa\u30d6\u30fc",
+            "chinese": "\u7092\u7092\u732a",
+            "french": "Grotichon"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 90,
+            "Attack": 93,
+            "Defense": 55,
+            "Sp. Attack": 70,
+            "Sp. Defense": 55,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ecfe"
+        },
+        "id": 500,
+        "name": {
+            "english": "Emboar",
+            "japanese": "\u30a8\u30f3\u30d6\u30aa\u30fc",
+            "chinese": "\u708e\u6b66\u738b",
+            "french": "Roitiflam"
+        },
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "base": {
+            "HP": 110,
+            "Attack": 123,
+            "Defense": 65,
+            "Sp. Attack": 100,
+            "Sp. Defense": 65,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed0c"
+        },
+        "id": 514,
+        "name": {
+            "english": "Simisear",
+            "japanese": "\u30d0\u30aa\u30c3\u30ad\u30fc",
+            "chinese": "\u7206\u9999\u733f",
+            "french": "Flamoutan"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 98,
+            "Defense": 63,
+            "Sp. Attack": 98,
+            "Sp. Defense": 63,
+            "Speed": 101
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed34"
+        },
+        "id": 554,
+        "name": {
+            "english": "Darumaka",
+            "japanese": "\u30c0\u30eb\u30de\u30c3\u30ab",
+            "chinese": "\u706b\u7ea2\u4e0d\u5012\u7fc1",
+            "french": "Darumarond"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 90,
+            "Defense": 45,
+            "Sp. Attack": 15,
+            "Sp. Defense": 45,
+            "Speed": 50
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed35"
+        },
+        "id": 555,
+        "name": {
+            "english": "Darmanitan",
+            "japanese": "\u30d2\u30d2\u30c0\u30eb\u30de",
+            "chinese": "\u8fbe\u6469\u72d2\u72d2",
+            "french": "Darumacho"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 105,
+            "Attack": 140,
+            "Defense": 55,
+            "Sp. Attack": 30,
+            "Sp. Defense": 55,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed6a"
+        },
+        "id": 608,
+        "name": {
+            "english": "Lampent",
+            "japanese": "\u30e9\u30f3\u30d7\u30e9\u30fc",
+            "chinese": "\u706f\u706b\u5e7d\u7075",
+            "french": "M\u00e9lancolux"
+        },
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 40,
+            "Defense": 60,
+            "Sp. Attack": 95,
+            "Sp. Defense": 60,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed6b"
+        },
+        "id": 609,
+        "name": {
+            "english": "Chandelure",
+            "japanese": "\u30b7\u30e3\u30f3\u30c7\u30e9",
+            "chinese": "\u6c34\u6676\u706f\u706b\u7075",
+            "french": "Lugulabre"
+        },
+        "type": [
+            "Ghost",
+            "Fire"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 55,
+            "Defense": 90,
+            "Sp. Attack": 145,
+            "Sp. Defense": 90,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed81"
+        },
+        "id": 631,
+        "name": {
+            "english": "Heatmor",
+            "japanese": "\u30af\u30a4\u30bf\u30e9\u30f3",
+            "chinese": "\u7194\u8681\u517d",
+            "french": "Aflamanoir"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 85,
+            "Attack": 97,
+            "Defense": 66,
+            "Sp. Attack": 105,
+            "Sp. Defense": 66,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed87"
+        },
+        "id": 637,
+        "name": {
+            "english": "Volcarona",
+            "japanese": "\u30a6\u30eb\u30ac\u30e2\u30b9",
+            "chinese": "\u706b\u795e\u86fe",
+            "french": "Pyrax"
+        },
+        "type": [
+            "Bug",
+            "Fire"
+        ],
+        "base": {
+            "HP": 85,
+            "Attack": 60,
+            "Defense": 65,
+            "Sp. Attack": 135,
+            "Sp. Defense": 105,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed8d"
+        },
+        "id": 643,
+        "name": {
+            "english": "Reshiram",
+            "japanese": "\u30ec\u30b7\u30e9\u30e0",
+            "chinese": "\u83b1\u5e0c\u62c9\u59c6",
+            "french": "Reshiram"
+        },
+        "type": [
+            "Dragon",
+            "Fire"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 120,
+            "Defense": 100,
+            "Sp. Attack": 150,
+            "Sp. Defense": 120,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ed99"
+        },
+        "id": 655,
+        "name": {
+            "english": "Delphox",
+            "japanese": "\u30de\u30d5\u30a9\u30af\u30b7\u30fc",
+            "chinese": "\u5996\u706b\u7ea2\u72d0",
+            "french": "Goupelin"
+        },
+        "type": [
+            "Fire",
+            "Psychic"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 69,
+            "Defense": 72,
+            "Sp. Attack": 114,
+            "Sp. Defense": 100,
+            "Speed": 104
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eda0"
+        },
+        "id": 662,
+        "name": {
+            "english": "Fletchinder",
+            "japanese": "\u30d2\u30ce\u30e4\u30b3\u30de",
+            "chinese": "\u706b\u7bad\u96c0",
+            "french": "Braisillon"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 62,
+            "Attack": 73,
+            "Defense": 55,
+            "Sp. Attack": 56,
+            "Sp. Defense": 52,
+            "Speed": 84
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eda1"
+        },
+        "id": 663,
+        "name": {
+            "english": "Talonflame",
+            "japanese": "\u30d5\u30a1\u30a4\u30a2\u30ed\u30fc",
+            "chinese": "\u70c8\u7bad\u9e70",
+            "french": "Flambusard"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 78,
+            "Attack": 81,
+            "Defense": 71,
+            "Sp. Attack": 74,
+            "Sp. Defense": 69,
+            "Speed": 126
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eda5"
+        },
+        "id": 667,
+        "name": {
+            "english": "Litleo",
+            "japanese": "\u30b7\u30b7\u30b3",
+            "chinese": "\u5c0f\u72ee\u72ee",
+            "french": "H\u00e9lionceau"
+        },
+        "type": [
+            "Fire",
+            "Normal"
+        ],
+        "base": {
+            "HP": 62,
+            "Attack": 50,
+            "Defense": 58,
+            "Sp. Attack": 73,
+            "Sp. Defense": 54,
+            "Speed": 72
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eda6"
+        },
+        "id": 668,
+        "name": {
+            "english": "Pyroar",
+            "japanese": "\u30ab\u30a8\u30f3\u30b8\u30b7",
+            "chinese": "\u706b\u708e\u72ee",
+            "french": "N\u00e9m\u00e9lios"
+        },
+        "type": [
+            "Fire",
+            "Normal"
+        ],
+        "base": {
+            "HP": 86,
+            "Attack": 68,
+            "Defense": 72,
+            "Sp. Attack": 109,
+            "Sp. Defense": 66,
+            "Speed": 106
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eddb"
+        },
+        "id": 721,
+        "name": {
+            "english": "Volcanion",
+            "japanese": "\u30dc\u30eb\u30b1\u30cb\u30aa\u30f3",
+            "chinese": "\u6ce2\u5c14\u51ef\u5c3c\u6069",
+            "french": "Volcanion"
+        },
+        "type": [
+            "Fire",
+            "Water"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 110,
+            "Defense": 120,
+            "Sp. Attack": 130,
+            "Sp. Defense": 90,
+            "Speed": 70
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ede0"
+        },
+        "id": 726,
+        "name": {
+            "english": "Torracat",
+            "japanese": "\u30cb\u30e3\u30d2\u30fc\u30c8",
+            "chinese": "\u708e\u70ed\u55b5",
+            "french": "Matoufeu"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 85,
+            "Defense": 50,
+            "Sp. Attack": 80,
+            "Sp. Defense": 50,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ede1"
+        },
+        "id": 727,
+        "name": {
+            "english": "Incineroar",
+            "japanese": "\u30ac\u30aa\u30ac\u30a8\u30f3",
+            "chinese": "\u70bd\u7130\u5486\u54ee\u864e",
+            "french": "F\u00e9linferno"
+        },
+        "type": [
+            "Fire",
+            "Dark"
+        ],
+        "base": {
+            "HP": 95,
+            "Attack": 115,
+            "Defense": 90,
+            "Sp. Attack": 80,
+            "Sp. Defense": 90,
+            "Speed": 60
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72edef"
+        },
+        "id": 741,
+        "name": {
+            "english": "Oricorio",
+            "japanese": "\u30aa\u30c9\u30ea\u30c9\u30ea",
+            "chinese": "\u82b1\u821e\u9e1f",
+            "french": "Plumeline"
+        },
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 70,
+            "Defense": 70,
+            "Sp. Attack": 98,
+            "Sp. Defense": 70,
+            "Speed": 93
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ee00"
+        },
+        "id": 758,
+        "name": {
+            "english": "Salazzle",
+            "japanese": "\u30a8\u30f3\u30cb\u30e5\u30fc\u30c8",
+            "chinese": "\u7130\u540e\u8725",
+            "french": "Malamandre"
+        },
+        "type": [
+            "Poison",
+            "Fire"
+        ],
+        "base": {
+            "HP": 68,
+            "Attack": 64,
+            "Defense": 60,
+            "Sp. Attack": 111,
+            "Sp. Defense": 60,
+            "Speed": 117
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72ee12"
+        },
+        "id": 776,
+        "name": {
+            "english": "Turtonator",
+            "japanese": "\u30d0\u30af\u30ac\u30e1\u30b9",
+            "chinese": "\u7206\u7130\u9f9f\u517d",
+            "french": "Togedemaru"
+        },
+        "type": [
+            "Fire",
+            "Dragon"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 78,
+            "Defense": 135,
+            "Sp. Attack": 91,
+            "Sp. Defense": 85,
+            "Speed": 36
+        }
+    }
+]

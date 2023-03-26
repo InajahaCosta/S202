@@ -1,0 +1,26 @@
+[
+    {
+        "_id": {
+            "$oid": "64175d3c7f06da76af72eb0d"
+        },
+        "id": 3,
+        "name": {
+            "english": "Venusaur",
+            "japanese": "\u30d5\u30b7\u30ae\u30d0\u30ca",
+            "chinese": "\u5999\u86d9\u82b1",
+            "french": "Florizarre"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 82,
+            "Defense": 83,
+            "Sp. Attack": 100,
+            "Sp. Defense": 100,
+            "Speed": 80
+        }
+    }
+]
