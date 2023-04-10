@@ -8,7 +8,7 @@ client = MongoClient('mongodb://localhost:27017/')
 # Indicando qual schema quero acessar
 db = client['bancoiot']
 # Indicando qual collection deste schema quero acessar
-sensores = db['sensores']
+sensores = db.sensores
 
 
 def sensor(name, tempoExecucao, sensores):
@@ -35,9 +35,9 @@ def sensor(name, tempoExecucao, sensores):
             time.sleep(tempoExecucao)
 
 # Criação das Thread
-thread1 = threading.Thread(target=sensor, args=("Sensor1", 100, sensores))
-thread2 = threading.Thread(target=sensor, args=("Sensor2", 200, sensores))
-thread3 = threading.Thread(target=sensor, args=("Sensor3", 300, sensores))
+thread1 = threading.Thread(target=sensor, args=("Sensor1", 10, sensores))
+thread2 = threading.Thread(target=sensor, args=("Sensor2", 20, sensores))
+thread3 = threading.Thread(target=sensor, args=("Sensor3", 30, sensores))
 
 # Iniciando as Threads:
 thread1.start()
