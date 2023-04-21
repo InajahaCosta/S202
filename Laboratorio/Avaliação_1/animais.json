@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "nome": "Elefante",
+  "especie": "Mamífero",
+  "idade": "48",
+  "habitat": [
+    {
+      "id": "1",
+      "nome": "Savana",
+      "tipoAmbiente": "tropical",
+      "cuidador": {
+        "id": "1",
+        "nome": "Luis Rafael",
+        "documento": "11144466600"
+      }
+    }
+  ]
+}
