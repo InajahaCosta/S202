@@ -1,0 +1,24 @@
+//Agregações
+
+MATCH (n:FinancialInstitute) RETURN COUNT(*);
+MATCH (n:CreditCard) RETURN SUM(n.balance);
+MATCH (n:BankCard)RETURN AVG(n.limit);
+MATCH (n:PhoneNumber) RETURN MIN(n.phone);
+MATCH (n:Address) RETURN COLLECT(n.city);
+
+//Funções matemáticas
+
+MATCH (n:BankCard) RETURN ROUND(n.balance);
+MATCH (n:CreditCard) RETURN CEIL(n.limit);
+MATCH (n:BankCard) RETURN SIGN(n.balance);
+MATCH (n:CreditCard) RETURN ABS(n.balance);
+MATCH (n:BankCard) RETURN FLOOR(n.balance);
+
+//Funções de String
+MATCH (n:DeliveryAddress) RETURN LEFT(n.state,3);
+MATCH (n:AccountHolder) RETURN TOUPPER(n.lastName);
+MATCH (n:Address) RETURN REVERSE(n.city);
+MATCH (n:Shop) RETURN TOLOWER(n.name);
+MATCH (n:BankAccount) WHERE n.accountNumber CONTAINS '11' RETURN n;;
+
+
