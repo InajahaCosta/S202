@@ -1,0 +1,34 @@
+// Criação de usuários
+CREATE (a:Usuario {nome: 'Alice', idade: 25})
+CREATE (b:Usuario {nome: 'Bob', idade: 30})
+CREATE (c:Usuario {nome: 'Charlie', idade: 35})
+CREATE (d:Usuario {nome: 'David', idade: 40})
+CREATE (e:Usuario {nome: 'Eve', idade: 45})
+
+// Criação de postagens
+CREATE (p1:Postagem {titulo: 'Observações do Amanhecer', conteudo: 'Conteúdo da Observações do Amanhecer'})
+CREATE (p2:Postagem {titulo: 'Memórias da Tarde', conteudo: 'Conteúdo da Memórias da Tarde'})
+CREATE (p3:Postagem {titulo: 'Segredos da Noite', conteudo: 'Segredos da Noite'})
+
+// Definindo relações de amizade
+CREATE (a)-[:AMIGO]->(b)
+CREATE (b)-[:AMIGO]->(c)
+CREATE (c)-[:AMIGO]->(d)
+CREATE (d)-[:AMIGO]->(e)
+
+// Definindo quem fez as postagens
+CREATE (a)-[:POSTOU]->(p1)
+CREATE (b)-[:POSTOU]->(p2)
+CREATE (c)-[:POSTOU]->(p3)
+
+//Quem é amigo de Bob?
+MATCH (b:Usuario {nome: 'Bob'})-[:AMIGO]->(amigo) RETURN amigo.nome
+Return : "Charlie"
+
+//Quem postou a 'Postagem 2'?
+MATCH (usuario:Usuario)-[:POSTOU]->(:Postagem {titulo: 'Memórias da Tarde'}) RETURN usuario.nome
+Return: "Bob"
+
+//Quem tem mais de 35 anos e fez uma postagem?
+MATCH (usuario:Usuario)-[:POSTOU]->(:Postagem) WHERE usuario.idade > 35 RETURN usuario.nome
+Return: (no changes, no records)
